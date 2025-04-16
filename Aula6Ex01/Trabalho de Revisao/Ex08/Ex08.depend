@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744721452 source:e:\bsi 1\pes\prova1\ex08\main.cpp
+	<iostream>
+	<locale>
+	<cctype>
+
+1744721452 source:e:\bsi 1\pes\trabalho de revisao\ex08\main.cpp
+	<iostream>
+	<locale>
+	<cctype>
+
