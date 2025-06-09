@@ -1,0 +1,7 @@
+Programa para calcular o IMC de uma pessoa
+
+Quantos IMCs você vai calcular?2
+O IMC do cliente Ivan é: 29.0548
+
+O IMC do cliente Juliana é: 23.939
+
